@@ -1,5 +1,6 @@
 name: Docker Publish
 
+# Builds the Stackoverflown game image and publishes it to GitHub Container Registry.
 on:
   push:
     branches:
